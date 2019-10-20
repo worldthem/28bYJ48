@@ -3,7 +3,7 @@ Library for 28bYJ48 motor
  # Hi, this is a copy of this https://github.com/Mohamad1994HD/28BYJ48 just modified to work with buttton stop and reset all the parametrs, 
  if you will need the code without button stop than download the original one https://github.com/Mohamad1994HD/28BYJ48
  
- ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+ ![Connect arduino nana to driver and 24byj48](https://raw.githubusercontent.com/worldthem/28bYJ48/master/connectionsArduino%20Nanao.jpg)
  
  How to use example:
  
